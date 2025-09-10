@@ -202,10 +202,6 @@ img {
   padding-bottom: 120px;
 }
 
-.team-part .container {
-  padding: 32px 0;
-}
-
 .team-part-title {
   font-size: 36px;
   line-height: 1.11;
@@ -229,7 +225,7 @@ img {
 }
 
 .team-part-info {
-  padding: 32px 16px;
+  padding: 32px 0;
 }
 
 .team-part-subtitle {
